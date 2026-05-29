@@ -1,0 +1,25 @@
+{
+  "projectName": "Security-Research",
+  "projectOwner": "https://github.com/MalcolmOdu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "sigbekuhonour",
+      "name": "Honour0512",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63160822?v=4",
+      "profile": "https://github.com/sigbekuhonour",
+      "contributions": [
+        "research"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
